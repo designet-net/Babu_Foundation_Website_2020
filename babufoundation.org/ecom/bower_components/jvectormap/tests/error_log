@@ -1,0 +1,8 @@
+[24-Nov-2024 04:36:47 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:54 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333
+[24-Nov-2024 04:36:56 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_scalarmult_ristretto255_base() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jvectormap/tests/tezsdywn.php on line 333

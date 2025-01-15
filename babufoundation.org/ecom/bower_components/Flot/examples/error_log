@@ -1,0 +1,50 @@
+[28-Nov-2024 09:09:59 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:00 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:02 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:03 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:04 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:04 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:05 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:05 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:06 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147
+[28-Nov-2024 09:10:07 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/Flot/examples/caubwnzi.php on line 147

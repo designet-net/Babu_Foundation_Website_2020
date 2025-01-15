@@ -1,0 +1,7 @@
+[25-Nov-2024 05:26:40 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696
+[25-Nov-2024 05:26:43 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696
+[25-Nov-2024 05:26:46 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696
+[25-Nov-2024 05:26:49 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696
+[25-Nov-2024 05:26:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696
+[25-Nov-2024 05:26:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696
+[25-Nov-2024 05:26:52 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/themes/admin-ajax.php on line 1696

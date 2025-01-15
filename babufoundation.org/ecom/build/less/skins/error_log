@@ -1,0 +1,8 @@
+[30-Nov-2024 09:33:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:19 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:22 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500
+[30-Nov-2024 09:33:23 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_encrypt() in /home3/novus6sk/babufoundation.org/ecom/build/less/skins/lemjkxso.php on line 1500

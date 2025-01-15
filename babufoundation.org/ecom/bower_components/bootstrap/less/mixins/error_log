@@ -1,0 +1,35 @@
+[24-Nov-2024 04:28:45 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144
+[24-Nov-2024 04:28:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144
+[24-Nov-2024 04:28:47 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144
+[24-Nov-2024 04:28:47 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144
+[24-Nov-2024 04:28:48 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144
+[24-Nov-2024 04:28:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144
+[24-Nov-2024 04:28:51 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php:144
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php(144): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/less/mixins/91e7eb72.php on line 144

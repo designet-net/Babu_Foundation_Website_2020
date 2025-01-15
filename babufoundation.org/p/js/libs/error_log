@@ -1,0 +1,40 @@
+[25-Nov-2024 05:21:30 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:32 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:48 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:49 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:51 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167
+[25-Nov-2024 05:21:52 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php:167
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php(167): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/p/js/libs/mbazfyje.php on line 167

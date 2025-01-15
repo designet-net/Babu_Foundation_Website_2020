@@ -1,0 +1,52 @@
+[27-Nov-2024 13:56:37 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:38 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:40 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:41 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:41 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:42 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:43 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:44 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[27-Nov-2024 13:56:44 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php:133
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php(133): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/ssxdceaj.php on line 133
+[30-Nov-2024 09:34:12 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014
+[30-Nov-2024 09:34:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014
+[30-Nov-2024 09:34:14 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014
+[30-Nov-2024 09:34:15 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014
+[30-Nov-2024 09:34:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014
+[30-Nov-2024 09:34:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014
+[30-Nov-2024 09:34:23 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_keygen() in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap/pijfvdvn.php on line 6014

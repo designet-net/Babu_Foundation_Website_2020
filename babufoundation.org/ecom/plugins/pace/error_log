@@ -1,0 +1,5 @@
+[02-Apr-2024 19:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function M-4376Œbe20&b‹™3b=0¦8fS7î6ƒMEpa9k0>8(Ãcn8-776 md’2-bd99b—àæ4Öc=TFs=HE o2d fõ57-3gh-”<<ö}be:2.®ú93`Š<f°”Öx½HEPaÒn¹g3?—-3Feh-407ò-žd22-"$éCÒ×­68öc×Q¦sMýEPa2dÞf57() in /home3/novus6sk/babufoundation.org/ecom/plugins/pace/oujixgnf.php:84
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/plugins/pace/oujixgnf.php(109): dt14(Array, Array)
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/plugins/pace/oujixgnf.php on line 84

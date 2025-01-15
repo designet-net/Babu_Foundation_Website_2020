@@ -1,0 +1,7 @@
+[27-Nov-2024 14:00:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682
+[27-Nov-2024 14:00:18 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682
+[27-Nov-2024 14:00:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682
+[27-Nov-2024 14:00:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682
+[27-Nov-2024 14:00:22 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682
+[27-Nov-2024 14:00:24 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682
+[27-Nov-2024 14:00:25 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_rekey() in /home3/novus6sk/babufoundation.org/ecom/vendor/phpmailer/wp-login.php on line 2682

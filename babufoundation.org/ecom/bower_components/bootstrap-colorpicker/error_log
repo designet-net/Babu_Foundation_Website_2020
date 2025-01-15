@@ -1,0 +1,40 @@
+[25-Nov-2024 05:24:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:51 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:52 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:52 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:53 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152
+[25-Nov-2024 05:24:57 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php:152
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php(152): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-colorpicker/vjkncmiw.php on line 152

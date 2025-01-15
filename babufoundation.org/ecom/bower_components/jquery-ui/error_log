@@ -1,0 +1,7 @@
+[25-Nov-2024 05:27:01 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554
+[25-Nov-2024 05:27:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554
+[25-Nov-2024 05:27:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554
+[25-Nov-2024 05:27:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554
+[25-Nov-2024 05:27:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554
+[25-Nov-2024 05:27:20 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554
+[25-Nov-2024 05:27:21 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_push() in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-ui/admin-ajax.php on line 1554

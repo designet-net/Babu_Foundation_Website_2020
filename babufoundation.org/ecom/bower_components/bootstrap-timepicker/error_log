@@ -1,0 +1,70 @@
+[29-Nov-2024 13:49:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:18 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140
+[29-Nov-2024 13:49:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:20 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140
+[29-Nov-2024 13:49:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:21 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:23 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:23 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140
+[29-Nov-2024 13:49:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:24 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140
+[29-Nov-2024 13:49:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 16
+[29-Nov-2024 13:49:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 17
+[29-Nov-2024 13:49:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 129
+[29-Nov-2024 13:49:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 138
+[29-Nov-2024 13:49:25 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php:140
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(19): wp_exif_date2ts(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php(611): get_column_count(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/bootstrap-timepicker/options.php on line 140

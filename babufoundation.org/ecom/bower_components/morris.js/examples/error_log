@@ -1,0 +1,93 @@
+[24-Nov-2024 04:31:44 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:45 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:46 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:47 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:48 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:48 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:49 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[24-Nov-2024 04:31:49 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php:154
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php(154): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/wsdkygtp.php on line 154
+[28-Nov-2024 09:04:29 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:33 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:34 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:35 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:36 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:37 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[28-Nov-2024 09:04:38 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php:160
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php(160): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/amlyxcgz.php on line 160
+[29-Nov-2024 13:52:39 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:13 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:15 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:15 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:16 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748
+[29-Nov-2024 13:53:17 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_aead_chacha20poly1305_ietf_decrypt() in /home3/novus6sk/babufoundation.org/ecom/bower_components/morris.js/examples/hmkbeijp.php on line 748

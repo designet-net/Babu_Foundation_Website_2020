@@ -1,0 +1,35 @@
+[25-Nov-2024 05:21:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145
+[25-Nov-2024 05:21:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145
+[25-Nov-2024 05:21:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145
+[25-Nov-2024 05:21:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145
+[25-Nov-2024 05:21:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145
+[25-Nov-2024 05:21:57 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145
+[25-Nov-2024 05:21:58 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php:145
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php(145): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery-knob/dist/upnbxwev.php on line 145

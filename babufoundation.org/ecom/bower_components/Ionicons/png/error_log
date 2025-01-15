@@ -1,0 +1,7 @@
+[24-Nov-2024 04:36:01 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626
+[24-Nov-2024 04:36:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626
+[24-Nov-2024 04:36:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626
+[24-Nov-2024 04:36:05 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626
+[24-Nov-2024 04:36:06 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626
+[24-Nov-2024 04:36:07 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626
+[24-Nov-2024 04:36:07 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_box() in /home3/novus6sk/babufoundation.org/ecom/bower_components/Ionicons/png/themes.php on line 626

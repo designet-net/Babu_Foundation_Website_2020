@@ -1,0 +1,35 @@
+[28-Nov-2024 09:04:00 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148
+[28-Nov-2024 09:04:02 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148
+[28-Nov-2024 09:04:02 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148
+[28-Nov-2024 09:04:02 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148
+[28-Nov-2024 09:04:03 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148
+[28-Nov-2024 09:04:04 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148
+[28-Nov-2024 09:04:05 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php:148
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php(148): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/magicline/images/hidpi/49ac3a4f.php on line 148

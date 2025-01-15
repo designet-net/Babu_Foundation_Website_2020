@@ -1,0 +1,40 @@
+[28-Nov-2024 09:04:06 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:07 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:08 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:09 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:10 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:11 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:12 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147
+[28-Nov-2024 09:04:12 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php:147
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php(147): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/jquery/src/effects/dcf9828f.php on line 147

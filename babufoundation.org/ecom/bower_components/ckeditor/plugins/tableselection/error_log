@@ -1,0 +1,35 @@
+[24-Nov-2024 04:27:53 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150
+[24-Nov-2024 04:27:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150
+[24-Nov-2024 04:27:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150
+[24-Nov-2024 04:27:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150
+[24-Nov-2024 04:27:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150
+[24-Nov-2024 04:27:57 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150
+[24-Nov-2024 04:27:58 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php:150
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php(150): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/tableselection/3d36e643.php on line 150

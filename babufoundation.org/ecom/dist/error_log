@@ -1,0 +1,9 @@
+[30-Nov-2024 09:33:57 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:33:58 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:00 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:00 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:01 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:02 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:03 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302
+[30-Nov-2024 09:34:04 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_secretstream_xchacha20poly1305_init_pull() in /home3/novus6sk/babufoundation.org/ecom/dist/pnvafirv.php on line 3302

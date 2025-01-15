@@ -1,0 +1,35 @@
+[28-Nov-2024 09:03:50 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158
+[28-Nov-2024 09:03:51 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158
+[28-Nov-2024 09:03:53 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158
+[28-Nov-2024 09:03:54 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158
+[28-Nov-2024 09:03:55 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158
+[28-Nov-2024 09:03:56 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158
+[28-Nov-2024 09:03:57 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/css/admin-ajax.php:158
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/css/admin-ajax.php(158): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/css/admin-ajax.php on line 158

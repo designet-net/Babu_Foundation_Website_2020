@@ -1,0 +1,77 @@
+[27-Nov-2024 14:02:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:12 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[27-Nov-2024 14:02:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:13 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[27-Nov-2024 14:02:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:14 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:14 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:15 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[27-Nov-2024 14:02:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:17 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[27-Nov-2024 14:02:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 20
+[27-Nov-2024 14:02:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 26
+[27-Nov-2024 14:02:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 524
+[27-Nov-2024 14:02:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 533
+[27-Nov-2024 14:02:19 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php:540
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(30): SetTimeout(NULL, false)
+#1 /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php(1286): parseAPEheaderFooter(false)
+#2 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/admin-ajax.php on line 540
+[30-Nov-2024 09:35:45 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875
+[30-Nov-2024 09:35:46 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875
+[30-Nov-2024 09:35:47 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875
+[30-Nov-2024 09:35:48 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875
+[30-Nov-2024 09:35:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875
+[30-Nov-2024 09:35:50 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875
+[30-Nov-2024 09:35:51 UTC] PHP Fatal error:  Cannot redeclare sodium_crypto_kx_publickey() in /home3/novus6sk/babufoundation.org/ecom/bower_components/ckeditor/plugins/jtpvezki.php on line 1875

@@ -1,0 +1,40 @@
+[24-Nov-2024 04:29:22 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:22 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:23 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:25 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:25 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:26 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:27 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
+[24-Nov-2024 04:29:28 UTC] PHP Fatal error:  Uncaught ValueError: explode(): Argument #1 ($separator) cannot be empty in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php:157
+Stack trace:
+#0 /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php(157): explode('', 'rawurldecode')
+#1 {main}
+  thrown in /home3/novus6sk/babufoundation.org/ecom/tcpdf/config/themes.php on line 157
